@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero: React.FC = () => {
   return (
-    <section id="hero" className="min-h-screen flex flex-col justify-center items-center text-center px-6 pt-32 pb-20 bg-brand-slate-light relative overflow-hidden">
+    <section id="hero" className="min-h-screen flex flex-col justify-center items-center text-center px-4 pt-32 pb-20 bg-brand-slate-light relative overflow-hidden">
       {/* Decorative elements */}
       <div className="absolute -top-24 -right-24 w-96 h-96 bg-brand-sky/10 rounded-full blur-3xl"></div>
       <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-brand-emerald/10 rounded-full blur-3xl"></div>

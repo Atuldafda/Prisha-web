@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer: React.FC = () => {
   return (
-    <footer className="bg-brand-navy text-brand-slate-light/60 py-16 px-6 border-t border-white/5 font-medium leading-relaxed">
+    <footer className="bg-brand-navy text-brand-slate-light/60 py-16 px-4 border-t border-white/5 font-medium leading-relaxed">
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center gap-10 mb-12 leading-relaxed">
           <div className="flex flex-col items-center md:items-start leading-relaxed">

@@ -2,11 +2,11 @@ import React from 'react';
 
 const Contact: React.FC = () => {
   return (
-    <section id="contact" className="py-24 px-6 bg-brand-navy relative overflow-hidden leading-relaxed font-medium">
+    <section id="contact" className="py-24 px-4 bg-brand-navy relative overflow-hidden leading-relaxed font-medium">
       {/* Decorative element */}
       <div className="absolute top-0 right-0 w-64 h-64 bg-brand-sky/10 rounded-full blur-3xl -mr-32 -mt-32"></div>
 
-      <div className="max-w-4xl mx-auto text-center relative z-10 leading-relaxed">
+      <div className="max-w-6xl mx-auto text-center relative z-10 leading-relaxed">
         <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-6 tracking-tight leading-tight">Ready to Build Your Vision?</h2>
         
         <div className="mb-12">

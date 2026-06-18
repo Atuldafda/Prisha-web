@@ -37,7 +37,7 @@ const projects = [
 
 const Portfolio: React.FC = () => {
   return (
-    <section id="portfolio" className="py-24 px-6 bg-white leading-relaxed">
+    <section id="portfolio" className="py-24 px-4 bg-white leading-relaxed">
       <div className="max-w-6xl mx-auto leading-relaxed">
         <div className="text-center mb-16 text-brand-slate-dark leading-relaxed">
           <h2 className="text-4xl md:text-5xl font-extrabold text-brand-navy mb-4 tracking-tight">Selected Work</h2>
